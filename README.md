@@ -1,11 +1,18 @@
 # obgje
 task result type:  <class 'aiohttp.client_reqrep.ClientResponse'>
+
 result read type:  <class 'bytes'>
+
 result content:  b'{"delay":3}'
+
 cost 3.991998
+
 request 1 to http://localhost:3000/aio success
+
 request 4 to http://localhost:3000/aio success
+
 request 2 to http://localhost:3000/aio success
+
 task result type:  <class 'aiohttp.client_reqrep.ClientResponse'>
 result read type:  <class 'bytes'>
 result content:  b'{"delay":9}'
